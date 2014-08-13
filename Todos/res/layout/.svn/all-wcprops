@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout
+END
+action_mode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout/action_mode.xml
+END
+items.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout/items.xml
+END
+item_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout/item_details.xml
+END
+list_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout/list_header.xml
+END
+title_bar_new_todo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout/title_bar_new_todo.xml
+END
+list_footer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout/list_footer.xml
+END
+list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout/list_item.xml
+END
+title_bar_number.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/6582_92_91_KK_MP/!svn/ver/9/platform/trunk/mediatek/packages/apps/Todos/res/layout/title_bar_number.xml
+END
